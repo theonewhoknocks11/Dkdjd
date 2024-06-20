@@ -28,8 +28,8 @@
       "#C8B68E"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffff",
-      "#ffff"
+      "#ff0000",
+      "#ff0000"
     ],
     "INTERACTIVE_HOVER": [
       "#ffff",
@@ -53,7 +53,7 @@
       "#282237"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#282237"
+      "#ff0000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#a79ab3"
@@ -75,16 +75,16 @@
       "#161519"
     ],
     "BACKGROUND_SECONDARY": [
-      "#282237",
-      "#29272E"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#ffff",
-      "#ffff"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#121215",
-      "#121215"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_ACCENT": [
       "#4D4660",
@@ -130,16 +130,16 @@
       "#ffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#ffff",
-      "#ffff"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#1F1F2B",
-      "#1F1F2B"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#2F293D",
-      "#373147"
+      "#ff0000",
+      "#ff0000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#0b0b0b",
@@ -178,8 +178,8 @@
       "#ffff"
     ],
     "KEYBOARD": [
-      "#0b0b0b",
-      "#0b0b0b"
+      "#ff0000",
+      "#ff0000"
     ],
     "CHANNEL_ICON": [
       "#ffff",
