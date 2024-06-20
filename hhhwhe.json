@@ -39,8 +39,8 @@
           "#ff0000"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#ff0000",
-          "#ff0000"
+          "#CFBA89",
+          "#d8c28f"
       ],
       "INTERACTIVE_MUTED": [
           "#544A70",
@@ -54,7 +54,7 @@
         "#282237"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-        "#282237"
+        "#ff0000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
         "#282237"
