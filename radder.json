@@ -9,8 +9,8 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#ffff",
-      "#ffff"
+      "#68627C",
+      "#edd49b"
     ],
     "HEADER_SECONDARY": [
       "#d8c28f",
@@ -50,7 +50,7 @@
       "#282237"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#ff0000"
+      "#282237"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#282237"
@@ -75,8 +75,8 @@
       "#161519"
     ],
     "BACKGROUND_SECONDARY": [
-      "#ff0000",
-      "#ff0000"
+      "#282237",
+      "#29272E"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#ff0000",
