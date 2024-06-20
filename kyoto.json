@@ -1,9 +1,9 @@
 {
-    "name": "Vision",
-    "description": "A theme made by Vodka Martini",
+    "name": "kyoto",
+    "description": "A theme made by rantan",
     "authors": [
         {
-            "name": "Vodka Martini",
+            "name": "kyoto",
             "id": "1068030255455015013"
         }
     ],
@@ -31,12 +31,12 @@
           "#C8B68E"
       ],
       "INTERACTIVE_NORMAL": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
       "INTERACTIVE_HOVER": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff000"
       ],
       "INTERACTIVE_ACTIVE": [
           "#CFBA89",
@@ -79,16 +79,16 @@
           "#161519"
       ],
       "BACKGROUND_SECONDARY": [
-          "#282237",
-          "#29272E"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#0E0D10",
-          "#0E0D10"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_TERTIARY": [
-          "#121215",
-          "#121215"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_ACCENT": [
           "#4D4660",
@@ -142,8 +142,8 @@
           "#1F1F2B"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#2F293D",
-          "#373147"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#29272E",
@@ -182,7 +182,7 @@
           "#a297c3"
       ],
       "KEYBOARD": [
-          "#161519",
+          "#00001",
           "#161519"
       ],
       "CHANNEL_ICON": [
