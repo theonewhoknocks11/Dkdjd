@@ -130,8 +130,8 @@
         "#121215"
         ],
       "BACKGROUND_MESSAGE_HOVER": [
-          "#1F1F2B",
-          "#1F1F2B"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
           "#1a1926",
@@ -146,8 +146,8 @@
           "#ff0000"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#29272E",
-          "#29272E"
+          "#ff0000",
+          "#ff0000"
       ],
       "SCROLLBAR_THIN_THUMB": [
           "#26273b",
