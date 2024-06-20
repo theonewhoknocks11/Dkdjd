@@ -1,9 +1,9 @@
 {
-    "name": "Vision",
-    "description": "A theme made by Vodka Martini",
+    "name": "raddy",
+    "description": "A theme made by rantan",
     "authors": [
         {
-            "name": "Vodka Martini",
+            "name": "mateexyxy",
             "id": "1068030255455015013"
         }
     ],
@@ -14,8 +14,8 @@
           "#edd49b"
       ],
       "HEADER_SECONDARY": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
 
       "ANDROID_RIPPLE": [
@@ -31,16 +31,16 @@
           "#C8B68E"
       ],
       "INTERACTIVE_NORMAL": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
       "INTERACTIVE_HOVER": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#CFBA89",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
       "INTERACTIVE_MUTED": [
           "#544A70",
@@ -87,8 +87,8 @@
           "#0E0D10"
       ],
       "BACKGROUND_TERTIARY": [
-          "#121215",
-          "#121215"
+          "#ff0000",
+          "#ff0000"
       ],
       "BACKGROUND_ACCENT": [
           "#4D4660",
@@ -326,7 +326,7 @@
 
 "background": {
     "alpha": 5,
-    "url": "https://github.com/VodkaXMartini/images/blob/main/Vision3.jpg?raw=true"
+    "url": "https://github.com/theonewhoknocks11/Dkdjd/blob/main/IMG_0232.JPG?raw=true"
 },
 "plus":{
    "version":"0",
